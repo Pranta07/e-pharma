@@ -1,6 +1,6 @@
 # E-Pharma
 
-Live Site: [Create React App](https://github.com/facebook/create-react-app).
+Live Site: [E-Pharma](https://e-pharma-6be780.netlify.app/).
 
 ## About Project
 
