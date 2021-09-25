@@ -1,7 +1,9 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCartArrowDown } from "@fortawesome/free-solid-svg-icons";
 
 const Medicine = (props) => {
-    const { medicine } = props;
+    const { medicine, handleBuyNow } = props;
     const { name, category, contains, manufacturer, picture, price } = medicine;
     return (
         <div className="col">
@@ -13,7 +15,7 @@ const Medicine = (props) => {
                     height="200"
                 />
                 <div className="card-body">
-                    <h5 className="card-title">{name}</h5>
+                    <h5 className="card-title text-primary">{name}</h5>
                     <p>
                         <span className="fw-bold">Category:</span> {category}
                     </p>
@@ -24,10 +26,19 @@ const Medicine = (props) => {
                     </p>
                     <h4>
                         Price:
-                        <span className="text-info"> TK. </span>
-                        {price}
+                        <small>
+                            <span className="text-primary"> TK. </span>
+                            {price}
+                        </small>
                     </h4>
                 </div>
+                <button
+                    onClick={() => handleBuyNow(medicine)}
+                    className="btn btn-primary"
+                >
+                    <FontAwesomeIcon icon={faCartArrowDown} />
+                    {" Buy Now"}
+                </button>
             </div>
         </div>
     );

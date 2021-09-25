@@ -59,7 +59,7 @@
         "picture": "https://emedi.com.bd/wp-content/uploads/2020/09/Nitrosol-Spray.jpg",
         "name": "NITROSOL",
         "category": "angina & ischaemic heart diseases",
-        "contains": "Glyceryl trinitrate (nitroglycerin) 400mcg/aerosol spray",
+        "contains": "Glyceryl trinitrate 400mcg/aerosol spray",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": 215.0
     },
@@ -67,7 +67,7 @@
         "picture": "https://pharmalinebd.com/wp-content/uploads/2020/05/digi-placeholder.jpg",
         "name": "ZIPRADON",
         "category": "psychosis",
-        "contains": "Ziprasidone INN 20mg & 40mg/capsule",
+        "contains": "Ziprasidone INN 20mg/capsule",
         "manufacturer": "Drug International Ltd.",
         "price": 250.0
     }
