@@ -17,7 +17,7 @@ const Cart = (props) => {
             itemList[med.name]++;
         }
     });
-    const names = Object.keys(itemList);
+    let names = Object.keys(itemList);
 
     return (
         <div className="p-3 mt-3 border shadow me-3 border-light bg-light">
@@ -37,6 +37,9 @@ const Cart = (props) => {
                     </li>
                 ))}
             </ul>
+            <div className="text-center">
+                <button className="btn btn-primary">Place Order</button>
+            </div>
         </div>
     );
 };

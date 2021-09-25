@@ -7,7 +7,7 @@ const Medicine = (props) => {
     const { name, category, contains, manufacturer, picture, price } = medicine;
     return (
         <div className="col">
-            <div className="border-0 rounded shadow card h-100">
+            <div className="rounded shadow border-primary card h-100">
                 <img
                     src={picture}
                     className="card-img-top"
