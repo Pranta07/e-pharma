@@ -1,72 +1,72 @@
 [
     {
         "picture": "https://emedi.com.bd/wp-content/uploads/2020/09/Enaril-Tablet-5-mg.jpg",
-        "drug-name": "ENARIL",
-        "drugs-for": "hypertension",
+        "name": "ENARIL",
+        "category": "hypertension",
         "contains": "Enalapril maleate 5mg/tablet",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": 100.0
     },
     {
         "picture": "https://emedi.com.bd/wp-content/uploads/2020/09/Yamadin-Tablet-40-mg.jpg",
-        "drug-name": "YAMADIN",
-        "drugs-for": "peptic ulcer",
+        "name": "YAMADIN",
+        "category": "peptic ulcer",
         "contains": "Famotidine 40mg/tablet",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": 380.0
     },
     {
         "picture": "https://emedi.com.bd/wp-content/uploads/2020/09/Asmolex-Syrup-100-ml.jpg",
-        "drug-name": "ASMOLEX",
-        "drugs-for": "asthma & prophylaxis",
+        "name": "ASMOLEX",
+        "category": "asthma & prophylaxis",
         "contains": "Salbutamol 100ml syrup",
         "manufacturer": "Aristopharma Ltd.",
         "price": 45.0
     },
     {
         "picture": "https://diabetesstore.com.bd/image/cache/catalog/All%20medicine%20and%20Manufacturer/Aristopharma/Pinor%2025%20mg%20Tablet-400x400.jpg",
-        "drug-name": "PINOR",
-        "drugs-for": "depression",
+        "name": "PINOR",
+        "category": "depression",
         "contains": "Imipramine hydrochlor 25mg/tablet",
         "manufacturer": "Aristopharma Ltd.",
         "price": 100.0
     },
     {
         "picture": "https://image.shutterstock.com/image-photo/hand-pouring-medication-antipyretic-syrup-260nw-770106040.jpg",
-        "drug-name": "FLEGNIL",
-        "drugs-for": "cough & cold",
+        "name": "FLEGNIL",
+        "category": "cough & cold",
         "contains": "Carbocisteine BP 125mg/5ml syrup",
         "manufacturer": "Orion Laboratories Ltd.",
         "price": 30.0
     },
     {
         "picture": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/b3717a02b4c7-88.png",
-        "drug-name": "SERGEL",
-        "drugs-for": "peptic ulcer",
+        "name": "SERGEL",
+        "category": "peptic ulcer",
         "contains": "Esomeprazole INN 20mg/capsule",
         "manufacturer": "Healthcare Pharmaceuticals Ltd.",
         "price": 390.0
     },
     {
         "picture": "https://diabetesstore.com.bd/image/cache/catalog/All%20medicine%20and%20Manufacturer/Radiant/Exium%2020%20mg%20Tablet-400x400.jpg",
-        "drug-name": "EXIUM",
-        "drugs-for": "peptic ulcer",
+        "name": "EXIUM",
+        "category": "peptic ulcer",
         "contains": "Esomeprazole INN 20mg/tablet",
         "manufacturer": "Radiant Pharmaceuticals Ltd.",
         "price": 192.0
     },
     {
         "picture": "https://emedi.com.bd/wp-content/uploads/2020/09/Nitrosol-Spray.jpg",
-        "drug-name": "NITROSOL",
-        "drugs-for": "angina & ischaemic heart diseases",
+        "name": "NITROSOL",
+        "category": "angina & ischaemic heart diseases",
         "contains": "Glyceryl trinitrate (nitroglycerin) 400mcg/aerosol spray",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": 215.0
     },
     {
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqkr3XxmCtcMbIiZShpOSmX46i_X9JWTZ7zuoCMrBaf0XLIKCDhWdO3xbtc6WKWZ2meg&usqp=CAU",
-        "drug-name": "ZIPRADON",
-        "drugs-for": "psychosis",
+        "picture": "https://pharmalinebd.com/wp-content/uploads/2020/05/digi-placeholder.jpg",
+        "name": "ZIPRADON",
+        "category": "psychosis",
         "contains": "Ziprasidone INN 20mg & 40mg/capsule",
         "manufacturer": "Drug International Ltd.",
         "price": 250.0

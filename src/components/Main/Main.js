@@ -4,11 +4,11 @@ import Medicines from "../Medicines/Medicines";
 
 const Main = () => {
     return (
-        <div>
-            <div>
+        <div className="row">
+            <div className="mt-3 col-9">
                 <Medicines></Medicines>
             </div>
-            <div>
+            <div className="col-3">
                 <Cart></Cart>
             </div>
         </div>
