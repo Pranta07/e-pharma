@@ -4,12 +4,7 @@ Live Site: [Create React App](https://github.com/facebook/create-react-app).
 
 ## About Project
 
-In the project directory, you can run:
+From this site:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*You can Order Medicines of Your Choice
+*All Key Information About a Medicine is Given.
