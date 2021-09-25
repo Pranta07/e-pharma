@@ -6,5 +6,5 @@ Live Site: [Create React App](https://github.com/facebook/create-react-app).
 
 From this site:
 
-*You can Order Medicines of Your Choice
-*All Key Information About a Medicine is Given.
+-   You can Order Medicines of Your Choice
+-   All Key Information About a Medicine is Given.
