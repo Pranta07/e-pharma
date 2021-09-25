@@ -1,9 +1,16 @@
 import "./App.css";
+import Header from "./components/Header/Header";
+import Main from "./components/Main/Main";
 
 function App() {
     return (
-        <div className="App">
-            <h1>Welcome to E-Pharma!</h1>
+        <div>
+            <div className="app-header">
+                <Header></Header>
+            </div>
+            <div>
+                <Main></Main>
+            </div>
         </div>
     );
 }
