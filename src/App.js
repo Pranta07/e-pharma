@@ -8,7 +8,7 @@ function App() {
             <div className="app-header">
                 <Header></Header>
             </div>
-            <div className="bg-light">
+            <div>
                 <Main></Main>
             </div>
         </div>

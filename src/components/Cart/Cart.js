@@ -30,13 +30,13 @@ const Cart = (props) => {
                 <span className="fw-bold text-primary">Total Cost: </span>
                 {total} TK.
             </p>
-            <ul>
+            <ol>
                 {names.map((name) => (
                     <li>
                         {name} (Quantity: {itemList[name]})
                     </li>
                 ))}
-            </ul>
+            </ol>
             <div className="text-center">
                 <button className="btn btn-primary">Place Order</button>
             </div>
