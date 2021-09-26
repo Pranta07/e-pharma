@@ -12,8 +12,8 @@ const Medicine = (props) => {
                     src={picture}
                     className="p-3 mx-auto rounded-circle alert-primary"
                     alt="med-img"
-                    height="200"
-                    width="200"
+                    height="160"
+                    width="160"
                 />
                 <div className="card-body">
                     <h5 className="card-title text-primary">{name}</h5>
